@@ -1,5 +1,9 @@
 # Fees
 
+{% hint style="info" %}
+EthAnchor is scheduled for deprecation and is to be replaced with xAnchor. It is highly recommended that new integrations are built with [xAnchor](https://docs.anchorprotocol.com/protocol/xanchor) and not with EthAnchor.
+{% endhint %}
+
 EthAnchor is built using various blockchain infrastructure that charges fees on their usage. Using EthAnchor incurs fees that are calculated based on the deposit / redeem amount. Fees listed at this section are applied independent of gas spent on Ethereum transactions.
 
 | Operation         | # of Swap Fees | # of Shuttle Fees | # of Terra Tax |

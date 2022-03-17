@@ -1,5 +1,9 @@
 # EthAnchor Contracts
 
+{% hint style="danger" %}
+EthAnchor is scheduled for deprecation and is to be replaced with xAnchor. It is highly recommended that new integrations are built with [xAnchor](https://docs.anchorprotocol.com/protocol/xanchor) and not with EthAnchor.
+{% endhint %}
+
 EthAnchor contracts are Ethereum smart contracts that facilitate cross-chain Anchor deposits. They primarily consist of [Operation](./#operation), [Router](./#router), [ConversionPool](./#conversionpool), and [ExchangeRateFeeder](./#exchangeratefeeder) contracts.
 
 ## Operation

@@ -23,6 +23,7 @@
   * [Modify ANC Distribution](protocol/anchor-governance/modify-the-distribution-model.md)
   * [Community Grants](protocol/anchor-governance/spend-community-pool.md)
   * [Text Proposal](protocol/anchor-governance/text-proposal.md)
+* [xAnchor](protocol/xanchor.md)
 
 ## User Guide
 
@@ -53,6 +54,13 @@
 * [Anchor Earn SDK](developers-earn/anchor-earn-sdk.md)
 * [Example Usage](developers-earn/example-usage.md)
 * [Appendix](developers-earn/appendix.md)
+
+## Developers - xAnchor
+
+* [xAnchor Contracts](developers-xanchor/xanchor-contracts.md)
+* [xAnchor Core](developers-xanchor/xanchor-core.md)
+* [xAnchor Wormhole Bridge](developers-xanchor/xanchor-wormhole-bridge.md)
+* [Address Proxy](developers-xanchor/address-proxy.md)
 
 ## Developers - Terra
 

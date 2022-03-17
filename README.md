@@ -29,6 +29,7 @@ Learn more about Anchor Protocol, its core smart contracts, and Javascript SDK.
 * Check out the [Smart Contracts](smart-contracts/deployed-contracts.md).
 * Build savings apps with [Anchor Earn](developers-earn/anchor-earn-sdk.md).
 * Build apps using [Anchor.js](developers-terra/anchor.js.md).
+* Accessing anchor across chains using [xAnchor](protocol/xanchor.md)
 * Cross chain apps on Ethereum using [EthAnchor](developers-ethereum/ethanchor.md)&#x20;
 
 ## Community

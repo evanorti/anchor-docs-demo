@@ -1,5 +1,9 @@
 # EthAnchor
 
+{% hint style="danger" %}
+EthAnchor is scheduled for deprecation and is to be replaced with xAnchor. It is highly recommended that new integrations are built with [xAnchor](https://docs.anchorprotocol.com/protocol/xanchor) and not with EthAnchor.
+{% endhint %}
+
 {% hint style="info" %}
 For those wishing to read up on the previous version of EthAnchor, click [here](../developers-ethereum/ethanchor.md).
 {% endhint %}
